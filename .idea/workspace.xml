@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="288ff4ab-6789-4d08-aa9d-09e78af8a3ec" name="Default Changelist" comment="" />
+    <list default="true" id="288ff4ab-6789-4d08-aa9d-09e78af8a3ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +62,16 @@
             <path>
               <item name="my_python_package" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_python_package" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_python_package" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_python_package" type="462c0819:PsiDirectoryNode" />
+              <item name="envpy30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_python_package" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_python_package" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,8 +234,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="100">
+            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
