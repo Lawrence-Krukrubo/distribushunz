@@ -2,6 +2,7 @@ import math
 import matplotlib.pyplot as plt
 from .Generaldistribution import Distribution
 
+
 class Gaussian(Distribution):
     """ Gaussian distribution class for calculating and
     visualizing a Gaussian distribution.
@@ -127,9 +128,7 @@ class Gaussian(Distribution):
             n_spaces (int): number of data points
 
         Returns:
-            list: x values for the pdf plot
-            list: y values for the pdf plot
-
+            None
         """
 
         min_range = min(self.data)
@@ -159,11 +158,9 @@ class Gaussian(Distribution):
         axes[0].set_ylabel('Density')
         plt.show()
 
-        return x, y
-
     def __add__(self, other):
 
-        """Function to add together two Gaussian distributions
+        """Function to add together two Gaussian distribushunz
 
         Args:
             other (Gaussian): Gaussian instance

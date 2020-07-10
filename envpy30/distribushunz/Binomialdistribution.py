@@ -14,9 +14,6 @@ class Binomial(Distribution):
         p (float) representing the probability of an event occurring
         n (int) the total number of trials
 
-
-    TODO: Fill out all TODOs in the functions below
-
     """
 
     #       A binomial distribution is defined by two variables:
@@ -234,7 +231,7 @@ class Binomial(Distribution):
 
     def __add__(self, other):
 
-        """Function to add together two Binomial distributions with equal p
+        """Function to add together two Binomial distribushunz with equal p
 
         Args:
             other (Binomial): Binomial instance
@@ -249,10 +246,10 @@ class Binomial(Distribution):
         except AssertionError as error:
             raise
 
-        # TODO: Define addition for two binomial distributions. Assume that the
-        # p values of the two distributions are the same. The formula for
-        # summing two binomial distributions with different p values is more complicated,
-        # so you are only expected to implement the case for two distributions with equal p.
+        # TODO: Define addition for two binomial distribushunz. Assume that the
+        # p values of the two distribushunz are the same. The formula for
+        # summing two binomial distribushunz with different p values is more complicated,
+        # so you are only expected to implement the case for two distribushunz with equal p.
 
         # the try, except statement above will raise an exception if the p values are not equal
 
@@ -260,8 +257,8 @@ class Binomial(Distribution):
         #   mean and standard deviation values. The __add__ method should return this
         #   new binomial object.
 
-        #   When adding two binomial distributions, the p value remains the same
-        #   The new n value is the sum of the n values of the two distributions.
+        #   When adding two binomial distribushunz, the p value remains the same
+        #   The new n value is the sum of the n values of the two distribushunz.
 
         result = Binomial()
         result.p = other.p
@@ -287,7 +284,7 @@ class Binomial(Distribution):
         # TODO: Define the representation method so that the output looks like
         #       mean 5, standard deviation 4.5, p .8, n 20
         #
-        #       with the values replaced by whatever the actual distributions values are
+        #       with the values replaced by whatever the actual distribushunz values are
         #       The method should return a string in the expected format
         mean = self.calculate_mean()
         std = self.calculate_stdev()

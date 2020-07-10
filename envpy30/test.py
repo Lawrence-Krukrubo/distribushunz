@@ -1,4 +1,4 @@
-# Any changes to the distributions library should be reinstalled with
+# Any changes to the distribushunz library should be reinstalled with
 #  pip install --upgrade .
 
 # For running unit tests, use

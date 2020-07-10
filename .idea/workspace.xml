@@ -3,7 +3,31 @@
   <component name="ChangeListManager">
     <list default="true" id="288ff4ab-6789-4d08-aa9d-09e78af8a3ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envpy30/practice_distributions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/practice_distributions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/cmdoptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/chardet/universaldetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/manifest.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/bdist_rpm.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/command/rotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/dist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/distributions/Binomialdistribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/distribushunz/Binomialdistribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/distributions/Gaussiandistribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/distribushunz/Gaussiandistribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/distributions/Generaldistribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/distribushunz/Generaldistribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/distributions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/distribushunz/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envpy30/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/envpy30/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,14 +36,56 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/envpy30/distributions/Gaussiandistribution.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envpy30/distribushunz/Gaussiandistribution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="193" column="77" lean-forward="true" selection-start-line="193" selection-start-column="77" selection-end-line="193" selection-end-column="77" />
+            <state relative-caret-position="232">
+              <caret line="178" column="20" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="20" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envpy30/distribushunz/Binomialdistribution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4840">
+              <caret line="242" lean-forward="true" selection-start-line="242" selection-end-line="242" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envpy30/distribushunz/Generaldistribution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envpy30/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/envpy30/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+              <folding>
+                <element signature="e#164#179#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,11 +115,14 @@
         <option value="$PROJECT_DIR$/envpy30/numbers_binomial.txt" />
         <option value="$PROJECT_DIR$/envpy30/distributions/Generaldistribution.py" />
         <option value="$PROJECT_DIR$/envpy30/test.py" />
-        <option value="$PROJECT_DIR$/envpy30/distributions/Gaussiandistribution.py" />
         <option value="$PROJECT_DIR$/envpy30/distributions/Binomialdistribution.py" />
         <option value="$PROJECT_DIR$/envpy30/practice_distributions.ipynb" />
         <option value="$PROJECT_DIR$/envpy30/distributions/__init__.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/envpy30/distributions/Gaussiandistribution.py" />
+        <option value="$PROJECT_DIR$/envpy30/distribushunz/Gaussiandistribution.py" />
+        <option value="$PROJECT_DIR$/envpy30/distribushunz/Binomialdistribution.py" />
+        <option value="$PROJECT_DIR$/envpy30/setup.py" />
       </list>
     </option>
   </component>
@@ -84,7 +153,7 @@
               <item name="my_python_package" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_python_package" type="462c0819:PsiDirectoryNode" />
               <item name="envpy30" type="462c0819:PsiDirectoryNode" />
-              <item name="distributions" type="462c0819:PsiDirectoryNode" />
+              <item name="distribushunz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,7 +204,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -170,13 +239,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/envpy30/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/envpy30/__init__.py" />
     <entry file="file://$PROJECT_DIR$/envpy30/numbers.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -192,47 +254,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/envpy30/distributions/Generaldistribution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/envpy30/distributions/Binomialdistribution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="273" lean-forward="true" selection-start-line="273" selection-end-line="273" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/envpy30/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#164#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/envpy30/practice_distributions.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/envpy30/distributions/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -246,19 +271,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+    <entry file="file://$PROJECT_DIR$/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/envpy30/distribushunz/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/envpy30/distributions/Gaussiandistribution.py">
+    <entry file="file://$PROJECT_DIR$/envpy30/distribushunz/Gaussiandistribution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="193" column="77" lean-forward="true" selection-start-line="193" selection-start-column="77" selection-end-line="193" selection-end-column="77" />
+        <state relative-caret-position="232">
+          <caret line="178" column="20" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="20" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envpy30/distribushunz/Binomialdistribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4840">
+          <caret line="242" lean-forward="true" selection-start-line="242" selection-end-line="242" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envpy30/distribushunz/Generaldistribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envpy30/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envpy30/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+          <folding>
+            <element signature="e#164#179#0" expanded="true" />
           </folding>
         </state>
       </provider>
