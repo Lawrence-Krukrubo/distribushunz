@@ -46,6 +46,14 @@ While the binomial distribution with parameters n and p is the discrete probabil
 </ol>
 </p>
 
+<h4>Installation:</h4>
+A test version of this package has been uploaded to **`test.pypi.org`**
+
+Kindly feel free to install the package for your use here:-
+
+**distribushunz 0.1**<br>
+`pip install -i https://test.pypi.org/simple/ distribushunz`
+
 <p>
 <h4>License:</h4>
 This package and all documents and computataions abide under the MIT license as seen in the root directory.
