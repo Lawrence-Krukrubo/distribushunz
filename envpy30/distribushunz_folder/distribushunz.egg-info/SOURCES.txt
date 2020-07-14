@@ -1,0 +1,10 @@
+setup.py
+distribushunz/Binomialdistribution.py
+distribushunz/Gaussiandistribution.py
+distribushunz/Generaldistribution.py
+distribushunz/__init__.py
+distribushunz.egg-info/PKG-INFO
+distribushunz.egg-info/SOURCES.txt
+distribushunz.egg-info/dependency_links.txt
+distribushunz.egg-info/not-zip-safe
+distribushunz.egg-info/top_level.txt
